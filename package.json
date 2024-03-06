@@ -13,7 +13,7 @@
     "build": "run-script-os",
     "build:darwin:linux": "npx zola-bin build && npm run tailwind",
     "build:win32": "npx zola-bin build & npm run tailwind",
-    "serve": "npx zola-bin serve --open",
+    "serve": "npx zola-bin serve",
     "dev": "run-script-os",
     "dev:darwin:linux": "npm run serve & npm run tailwind-watch",
     "dev:win32": "start /b npm run serve & start /b npm run tailwind-watch"
