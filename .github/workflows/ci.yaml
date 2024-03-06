@@ -25,6 +25,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: latest
+          cache: npm
       - name: checkout
         uses: actions/checkout@v4
       - name: configure pages
