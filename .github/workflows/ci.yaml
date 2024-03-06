@@ -21,16 +21,16 @@ jobs:
   build: 
     runs-on: ubuntu-latest
     steps:
-      - name: install node
-        uses: actions/setup-node@v4
-        with:
-          node-version: latest
-          cache: npm
       - name: checkout
         uses: actions/checkout@v4
       - name: configure pages
         id: pages
         uses: actions/configure-pages@v4
+      - name: install node
+        uses: actions/setup-node@v4
+        with:
+          node-version: latest
+          cache: npm
       - name: install npm deps
         run: npm ci
       - name: build
