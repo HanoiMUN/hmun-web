@@ -1,0 +1,19 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #6f20b1;
+    @apply font-laira text-center text-3xl;
+}
+
+h1 {
+    font-size: 45px;
+    margin: 10px;
+}
+
+p, main li {
+    font-size: 20px;
+    @apply font-prime;
+}
+
+ol {
+    list-style-type: decimal;
+    list-style-position: inside;
+}
