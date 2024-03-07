@@ -1,5 +1,15 @@
 {% extends "base.html" %}
 
+{% block extra_styles %}
+  <link rel="stylesheet" type="text/css" href="/page.css" />
+{% endblock %}
+
 {% block content %}
-{{ page.content | safe }}
+  <!-- banner -->
+  <img class="object-contain w-full" src="{{ page.extra.banner }}" />
+
+  <br />
+  <div class="mx-auto w-2/3 md:w-1/2">
+    {{ page.content | safe }}
+  </div>
 {% endblock %}

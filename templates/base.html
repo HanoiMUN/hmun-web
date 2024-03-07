@@ -3,9 +3,12 @@
   <head>
     <meta charset="utf-8" />
     <title>Hanoi Model UN</title>
-    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/base.css" />
+
+    {% block extra_styles %}
+    {% endblock %}
   </head>
-  <body class="text-gray-200 bg-black">
+  <body class="text-gray-200 bg-black font-montserrat">
     {% include "navbar.html" %}
     <main>
       {% block content %}
