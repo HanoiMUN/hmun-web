@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind variants;
+@tailwind utilities;
+@tailwind components;
+
+/* fonts */
+
+@font-face {
+    font-family: "Laira";
+    src: local("Laira"), url("Laira.otf") format("opentype"),
+}
+.font-laira { font-family: "Laira"; }
+
+@font-face {
+    font-family: "Lozung Caps";
+    src:
+        local("Lozung Caps"), url("Lozung Caps Black.ttf") format("truetype"),
+}
+.font-lozung-caps { font-family: "Lozung Caps"; }
+
+@font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat"), url("MONTSERRAT-REGULAR.TTF") format("truetype"),
+}
+.font-montserrat { font-family: "Montserrat"; }
+
+/* other styling */
+
+h1 {
+    color: #6f20b1;
+    @apply text-3xl;
+    @extend .font-laira;
+}
+
+ol {
+    list-style-type: decimal;
+}
