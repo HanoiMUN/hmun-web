@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./content/**/*.md", "./templates/*.html"],
+  content: ["./content/**/*.md", "./templates/**/*.{html,md}"],
   theme: {
     fontFamily: {
       laira: ["Laira", "ui-sans-serif"],
