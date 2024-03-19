@@ -1,5 +1,5 @@
 +++
-title = "about us"
+title = "who we are"
 extra = { banner = "" }
 +++
 
