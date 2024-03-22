@@ -9,19 +9,22 @@
     font-family: "Work Sans";
     src:
         local("Work Sans"),
-        url("WorkSans-VariableFont_wght-Regular.otf") format("opentype"),
+        url("WorkSans-VariableFont_wght-Regular.otf") format("opentype");
+    font-weight: 1 1000;
 }
 
 @font-face {
     font-family: "Rockbrown";
     src:
         local("Rockbrown"),
-        url("ROCKBROWN -DEMO.ttf") format("truetype"),
+        url("ROCKBROWN -DEMO.ttf") format("truetype");
+    font-weight: 1 1000;
 }
 
 @font-face {
     font-family: "Schabo Condensed";
     src:
         local("Schabo Condensed"),
-        url("SCHABO-Condensed.otf") format("opentype"),
+        url("SCHABO-Condensed.otf") format("opentype");
+    font-weight: 1 1000;
 }
