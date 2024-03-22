@@ -3,6 +3,12 @@ title = "register"
 extra = { banner = "/reg-banner.png" }
 +++
 
+<style>
+main h1 {
+  text-align: left;
+}
+</style>
+
 # Registration Info
 
 - **Deadline:** 23:59 (GMT+7), April 3rd, 2024
@@ -14,6 +20,40 @@ extra = { banner = "/reg-banner.png" }
 - **Delegation:**
   - **Delegate:** 450.000₫/person
   - **Observer:** 400.000₫/person
+
+<br />
+
+# International Labour Organization (ILO)
+
+- **Topic A:** Protection of migrant workers
+- **Topic B:** Responsible outsourcing to developing countries
+
+<br />
+
+# International Maritime Organization (IMO)
+
+- **Topic A:** Discussing piracy defense strategies
+- **Topic B:** Safeguarding international trade routes in the Red Sea
+
+<br />
+
+# European Council (EC)
+
+- **Topic:** Treaty of Lisbon
+
+<br />
+
+# Joint Historical Crisis Council (JHCC)
+
+- **Topic:** Croatian War of Independence
+
+<br />
+
+# Ad-hoc Committee
+
+- ...to be announced?
+
+<br />
 
 <script
   type="text/javascript"
