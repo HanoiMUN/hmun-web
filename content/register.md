@@ -51,7 +51,7 @@ main h1 {
 
 # Ad Hoc Committee
 
-- to be announced on conference day~~~ 💖
+- To be announced on conference day~~~ 💖
 
 <br />
 
