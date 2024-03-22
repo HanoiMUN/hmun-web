@@ -6,26 +6,22 @@
 /* fonts */
 
 @font-face {
-    font-family: "Laira";
-    src: local("Laira"), url("Laira.otf") format("opentype"),
-}
-.font-laira { font-family: "Laira"; }
-
-@font-face {
-    font-family: "Lozung Caps";
+    font-family: "Work Sans";
     src:
-        local("Lozung Caps"), url("Lozung Caps Black.ttf") format("truetype"),
+        local("Work Sans"),
+        url("WorkSans-VariableFont_wght-Regular.otf") format("opentype"),
 }
-.font-lozung-caps { font-family: "Lozung Caps"; }
 
 @font-face {
-    font-family: "Montserrat";
-    src: local("Montserrat"), url("MONTSERRAT-REGULAR.TTF") format("truetype"),
+    font-family: "Rockbrown";
+    src:
+        local("Rockbrown"),
+        url("ROCKBROWN -DEMO.ttf") format("truetype"),
 }
-.font-montserrat { font-family: "Montserrat"; }
 
 @font-face {
-    font-family: "Prime";
-    src: local("Prime"), url("Prime-Regular.otf") format("opentype"),
+    font-family: "Schabo Condensed";
+    src:
+        local("Schabo Condensed"),
+        url("SCHABO-Condensed.otf") format("opentype"),
 }
-.font-prime { font-family: "Prime"; }

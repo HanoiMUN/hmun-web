@@ -1,5 +1,5 @@
 <nav
-  class="flex justify-between items-end py-2 px-8 font-bold bg-hmun-dark-pink font-montserrat"
+  class="flex justify-between items-end py-2 px-8 font-bold bg-hmun-dark-pink font-work-sans"
 >
   <!-- left logo -->
   <a href="/">
@@ -17,7 +17,7 @@
         class="text-hmun-white hover:text-hmun-light-pink"
         href="{{ page.permalink }}"
       >
-        {{ page.title }}
+        {{ page.title | upper }}
       </a>
     </li>
     {% endfor %}
