@@ -1,5 +1,11 @@
 {% extends "base.html" %}
 
 {% block content %}
-  <img src="/banner.webp" alt="banner" />
+  <!-- banner -->
+  <img src="/banner.png" alt="banner" />
+
+  <br />
+  <div class="mx-auto w-2/3 md:w-1/2">
+    {{ section.content | safe }}
+  </div>
 {% endblock %}

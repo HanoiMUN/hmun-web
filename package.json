@@ -2,7 +2,7 @@
   "scripts": {
     "clean": "rm -rf ./public",
     "build": "npx zola-bin build && npx postcss ./styles -d ./public",
-    "dev": "npx zola-bin serve & npx postcss ./styles -d ./public -w"
+    "dev": "npx zola-bin serve -i 0.0.0.0 -p 1111 & npx postcss ./styles -d ./public -w"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.18",

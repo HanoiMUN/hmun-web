@@ -1,6 +1,6 @@
 +++
 title = "who we are"
-extra = { banner = "" }
+extra = { banner = "/sess-banner.png" }
 +++
 
 # What is Model UN?

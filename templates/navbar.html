@@ -1,5 +1,5 @@
 <nav
-  class="flex justify-between items-end py-2 px-8 font-bold bg-black border-b-2 border-gray-700 shadow-lg font-montserrat"
+  class="flex justify-between items-end py-2 px-8 font-bold bg-hmun-dark-pink font-montserrat"
 >
   <!-- left logo -->
   <a href="/">
@@ -13,7 +13,10 @@
     {% set root = get_section(path="_index.md") %}
     {% for page in root.pages %}
     <li>
-      <a class="text-gray-200 hover:text-gray-500" href="{{ page.permalink }}">
+      <a 
+        class="text-hmun-white hover:text-hmun-light-pink"
+        href="{{ page.permalink }}"
+      >
         {{ page.title }}
       </a>
     </li>
