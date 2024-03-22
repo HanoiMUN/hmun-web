@@ -1,4 +1,4 @@
-base_url = "https://next.hanoimun.org"
+base_url = "https://hanoimun.org"
 title = "Hanoi Model UN"
 compile_sass = false
 minify_html = true
