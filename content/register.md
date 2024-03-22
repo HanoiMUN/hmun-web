@@ -49,7 +49,7 @@ main h1 {
 
 <br />
 
-# Ad-hoc Committee
+# Ad Hoc Committee
 
 - ...to be announced?
 

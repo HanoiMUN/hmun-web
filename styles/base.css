@@ -10,7 +10,7 @@
     src:
         local("Work Sans"),
         url("WorkSans-VariableFont_wght-Regular.otf") format("opentype");
-    font-weight: 1 1000;
+    font-weight: 1 1000; /* safari workaround */
 }
 
 @font-face {
@@ -18,7 +18,7 @@
     src:
         local("Rockbrown"),
         url("ROCKBROWN -DEMO.ttf") format("truetype");
-    font-weight: 1 1000;
+    font-weight: 1 1000; /* safari workaround */
 }
 
 @font-face {
@@ -26,5 +26,5 @@
     src:
         local("Schabo Condensed"),
         url("SCHABO-Condensed.otf") format("opentype");
-    font-weight: 1 1000;
+    font-weight: 1 1000; /* safari workaround */
 }
