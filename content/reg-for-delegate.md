@@ -23,10 +23,6 @@ main h1 {
 
 <br />
 
-# Delegation form will be updated soon!
-
-<br />
-
 # International Labour Organization (ILO)
 
 - **Topic A:** Protection of migrant workers
