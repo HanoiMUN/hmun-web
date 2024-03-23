@@ -28,4 +28,5 @@ table {
 
 <br />
 
-[![register now](/reg-btn.png)](/register)
+[![register for delegate](/reg-btn.png)](/register)
+[![register for delegation](/reg-delegations.png)]
