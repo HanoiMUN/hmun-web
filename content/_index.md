@@ -29,4 +29,4 @@ table {
 <br />
 
 [![register for delegate](/reg-btn.png)](/register)
-[![register for delegation](/reg-delegations.png)]
+![register for delegation](/reg-delegations.png)
