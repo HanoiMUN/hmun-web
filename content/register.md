@@ -61,5 +61,5 @@ main h1 {
 
 <script
   type="text/javascript"
-  src="https://form.jotform.com/240823762094054"
+  src="https://form.jotform.com/jsform/240823762094054"
 ></script>
