@@ -1,5 +1,5 @@
 +++
-title = "register"
+title = "delegation"
 extra = { banner = "/reg-delegation-banner.png" }
 +++
 
