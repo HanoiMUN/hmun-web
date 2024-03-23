@@ -39,7 +39,7 @@ main h1 {
 
 # European Council (EC)
 
-- **Topic:** Treaty of Lisbon
+- **Topic:** Treaty of Lisbon: Enhancing democratic efficiency in the EU
 
 <br />
 
