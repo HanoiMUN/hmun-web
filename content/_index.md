@@ -20,11 +20,11 @@ table {
 
 ||||
 |---|---|---|
-|[![ilo](/ilo.png)](/reg-for-delegate))|[![imo](/imo.png)](/reg-for-delegate))|[![ec](/ec.png)](/reg-for-delegate))|
+|[![ilo](/ilo.png)](/reg-for-delegate)|[![imo](/imo.png)](/reg-for-delegate)|[![ec](/ec.png)](/reg-for-delegate)|
 
 |||
 |---|---|
-|[![jhcc](/jhcc.png)](/reg-for-delegate))|[![ad-hoc](/adhoc.png)](/reg-for-delegate))|
+|[![jhcc](/jhcc.png)](/reg-for-delegate)|[![ad-hoc](/adhoc.png)](/reg-for-delegate)|
 
 <br />
 
