@@ -1,6 +1,6 @@
 +++
 title = "register"
-
+extra = { banner = "/reg-delegation-banner.png" }
 +++
 
 <style>
