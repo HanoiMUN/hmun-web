@@ -21,7 +21,7 @@ main h1 {
   - **Delegate:** 450.000₫/person
   - **Observer:** 400.000₫/person
 
-
+<br />
 
 # Delegation form will be updated soon!
 
