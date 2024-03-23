@@ -1,6 +1,6 @@
 +++
 title = "register"
-extra = { banner = "/res-hub-banner.png" }
+
 +++
 
 <style>
