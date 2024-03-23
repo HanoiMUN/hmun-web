@@ -21,6 +21,10 @@ main h1 {
   - **Delegate:** 450.000₫/person
   - **Observer:** 400.000₫/person
 
+
+
+# Delegation form will be updated soon!
+
 <br />
 
 # International Labour Organization (ILO)
