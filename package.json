@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "clean": "rm -rf ./public",
     "build": "run-script-os",
     "build:darwin:linux": "npx zola-bin build && npx postcss ./styles -d ./public",
     "build:win32": "npx zola-bin build & npx postcss .\\styles -d .\\public",
