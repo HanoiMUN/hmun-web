@@ -29,8 +29,8 @@ We use a semi-modified set of Zola's default directory structure:
 - `styles/` contains common CSS code for [every page](styles/base.css) and
   specifically [the content pages](styles/page.css).
 - `templates/` contains the template for [every page](templates/base.html),
-  common elements like the [navbar](templates/navbar.html) and [footer]
-  (templates/footer.html), [the index page](templates/index.html),
+  common elements like the [navbar](templates/navbar.html) and
+  [footer](templates/footer.html), [the index page](templates/index.html), and
   [the content pages](templates/page.html).
 - `templates/shortcodes/` contains Zola shortcodes, and also JavaScript code.
   Include these in `content/*.md` files with the `{{ shortcode() }}` syntax.
