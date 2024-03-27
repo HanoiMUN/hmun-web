@@ -38,6 +38,7 @@ div p{
     <p id="Seconds">00</p><span>Seconds</span>
   </div>
 </div>
+
 <div>
     <script>
         var deadline = new Date("April 3, 2024 23:59:00 UTC").getTime();
