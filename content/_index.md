@@ -83,3 +83,8 @@ div p{
 <br />
 
 [![register for delegation](/reg-delegations.png)](/reg-for-delegation)
+
+<br />
+
+[![register for observer](/nut-ob.png)](/reg-for-observer)
+
