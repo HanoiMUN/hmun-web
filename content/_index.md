@@ -26,7 +26,7 @@ div p{
 # EARLY BIRD DEADLINE COUNTDOWN
 <div class="text-center place-content-center flex ">
   <div>
-    <p id="Days" >00</p><span>Days</span>
+    <p id="days" >00</p><span>Days</span>
   </div>
   <div>
     <p id="Hours">00</p><span>Hours</span>
@@ -49,13 +49,13 @@ div p{
             var hours = Math.floor((t%(1000 * 60 * 60 * 24))/(1000 * 60 * 60));
             var minutes = Math.floor((t % (1000 * 60 * 60)) / (1000 * 60));
             var seconds = Math.floor((t % (1000 * 60)) / 1000);
-            document.getElementById("Days").innerHTML =days ;
+            document.getElementById("days").innerHTML =days ;
             document.getElementById("Hours").innerHTML =hours;
             document.getElementById("Minutes").innerHTML = minutes;
             document.getElementById("Seconds").innerHTML =seconds;
             if (t < 0) {
                 clearInterval(x);
-                document.getElementById("Days").innerHTML ='00';
+                document.getElementById("days").innerHTML ='00';
                 document.getElementById("Hours").innerHTML ='00';
                 document.getElementById("Minutes").innerHTML ='00';
                 document.getElementById("Seconds").innerHTML = '00';
