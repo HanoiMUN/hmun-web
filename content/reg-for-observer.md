@@ -1,6 +1,7 @@
 +++
 title = "observer"
-extra = { banner = "/banner-ob.png" }
+extra.banner = "/banner-ob.png"
+extra.order = 5
 +++
 
 <style>

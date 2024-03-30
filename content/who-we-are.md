@@ -1,6 +1,7 @@
 +++
 title = "who we are"
-extra = { banner = "/sess-banner.png" }
+extra.banner = "/sess-banner.png"
+extra.order = 1
 +++
 
 # What is Model UN?

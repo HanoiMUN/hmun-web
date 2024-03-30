@@ -1,6 +1,7 @@
 +++
 title = "delegation"
-extra = { banner = "/reg-delegation-banner.png" }
+extra.banner = "/reg-delegation-banner.png"
+extra.order = 4
 +++
 
 <style>
