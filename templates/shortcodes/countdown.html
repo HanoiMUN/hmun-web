@@ -1,0 +1,49 @@
+<div>
+  <div class="flex place-content-center text-center">
+    <div>
+      <p id="d">00</p><span>Days</span>
+    </div>
+    <div>
+      <p id="h">00</p><span>Hours</span>
+    </div>
+    <div>
+      <p id="m">00</p><span>Minutes</span>
+    </div>
+    <div>
+      <p id="s">00</p><span>Seconds</span>
+    </div>
+  </div>
+
+  <div>
+    <script>
+      const deadline = Math.floor(new Date("{{deadline}}").getTime() * 10e-4);
+      const int = setInterval(() => {
+        const now = Math.floor(new Date().getTime() * 10e-4);
+        let remaining = deadline - now;
+
+        if (remaining > 0) {
+          let mp = 60 * 60 * 24;
+          const days = Math.floor(remaining / mp);
+          remaining -= days * mp;
+          mp /= 24;
+          const hours = Math.floor(remaining / mp);
+          remaining -= hours * mp;
+          mp /= 60;
+          const minutes = Math.floor(remaining / mp);
+          remaining -= minutes * mp;
+          mp /= 60;
+          const seconds = remaining;
+
+          document.getElementById("d").innerHTML = days;
+          document.getElementById("h").innerHTML = hours;
+          document.getElementById("m").innerHTML = minutes;
+          document.getElementById("s").innerHTML = seconds;
+
+          return;
+        }
+
+        clearInterval(int);
+      }, 1000);
+    </script>
+  </div>
+</div>
