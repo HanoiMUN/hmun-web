@@ -1,6 +1,11 @@
 +++
 title = "observer"
+<<<<<<< HEAD
 extra = { banner = "/banner-ob.png" }
+=======
+extra.banner = "/banner-ob.png"
+extra.order = 5
+>>>>>>> 48fda9ac6a073c39b7cd8ab158ad86540e5fe749
 +++
 
 <style>
