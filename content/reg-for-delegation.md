@@ -24,36 +24,10 @@ main h1 {
 
 <br />
 
-# International Labour Organization (ILO)
-
-- **Topic A:** Protection of migrant workers
-- **Topic B:** Responsible outsourcing to developing countries
-
-<br />
-
-# International Maritime Organization (IMO)
-
-- **Topic A:** Discussing piracy defense strategies
-- **Topic B:** Safeguarding international trade routes in the Red Sea
-
-<br />
-
-# European Council (EC)
-
-- **Topic:** Treaty of Lisbon: Enhancing democratic efficiency in the EU
-
-<br />
-
-# Joint Historical Crisis Council (JHCC)
-
-- **Topic:** Croatian War of Independence
-
-<br />
-
-# Ad Hoc Committee
-
-- To be announced on conference day~~~ 💖
-
+# Note: 
+Delegation Registrations are phase-specific, meaning that all members of the Delegation must register for a Delegate position at the same phase as the Delegation.
+<br>
+e.g: If the Delegation is registered during the Regular Decision (RD) phase, all prospective Delegates in that Delegation must also register during RD.
 <br />
 
 <script 
