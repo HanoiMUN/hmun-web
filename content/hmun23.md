@@ -10,7 +10,7 @@ page.template= "page.html"
 
 # *<span style="font-size:3em; color: purple;">HMUN' 23</span>*
 
-Hanoi Model United Nations 2023 took place at Olympia Highschool from the 6th to 8th of June.
+*Hanoi Model United Nations 2023 took place at Olympia Highschool from the 6th to 8th of June.*
 
 <br /><br />
 

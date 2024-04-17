@@ -10,7 +10,7 @@ page.template= "page.html"
 
 # *<span style="font-size:3em; color: black;">HMUN' 22</span>*
 
-Hanoi Model United Nations 2022 took place at The International School @Parkcity Hanoi (ISPH) from the 22nd to 24th July.
+*Hanoi Model United Nations 2022 took place at The International School @Parkcity Hanoi (ISPH) from the 22nd to 24th July.*
 
 <br /><br />
 
