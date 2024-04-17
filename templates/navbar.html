@@ -12,7 +12,7 @@
   <ul class="flex gap-x-8 transform -translate-y-4">
     {% set root = get_section(path="_index.md") %}
     {% for page in root.pages | sort(attribute="extra.order") %}
-    {% if page.title != "HMUN" %}
+    {% if page.title != "hmun-conf" %}
     <li>
       <a
         class="text-hmun-white hover:text-hmun-light-pink"
