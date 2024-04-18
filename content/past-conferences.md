@@ -59,7 +59,7 @@ extra.order = 2
     <h3>HMUN'18</h3>
     <p>Hanoi Model United Nations ‘18 took place at Hanoi Sahul Hotel from the 16th to 17th June.</p>
     <br>
-    <a href="/hmun" class="button">LEARN MORE</a>
+    <a href="/hmun18" class="button">LEARN MORE</a>
   </div>
 </div>
 <br>
