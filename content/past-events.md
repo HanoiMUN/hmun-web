@@ -13,49 +13,43 @@ extra.order = 2
 
 # Find More
 
+<div class="container">
+  <div class="image-container">
+    <img src="/past-conf.png" alt="past conf" style="width:100%;">
+    <a href="/past-conferences" class="button">PAST CONFERENCES</a>
+  </div>
+  <div class="image-container">
+    <img src="/past-mocks.png" alt="past mock" style="width:100%;">
+    <a href="/past-mocks" class="button">PAST MOCKS</a>
+  </div>
+</div>
+
 <style>
-div img {
-  margin: 0 auto;
-  width: 400px;
-  height: auto;
-}
+ .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  .image-container {
+    margin: 15px;
+  }
+  .button {
+    display: block;
+    font-size: 20px;
+    width: 250px;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: white;
+    color: darkred;
+    text-align: center;
+    border-radius: 20px;
+  }
+  .button:hover {
+    background-color: darkred;
+    color: white;
+  }
+  </style>
 
-table {
-  margin: 0 auto;
-}
-</style>
-<!-- 
-|||
-|---|---|
-|![past-conf](/past-conf.png)|![past-mock](/past-mocks.png)|
-<br>
-|||
-|<a class="p-5 mx-2 text-xl rounded-3xl bg-hmun-white text-hmun-dark-red" href="/reg-for-delegate" >PAST CONFERENCES<a>|<a class="p-5 mx-2 text-xl rounded-3xl bg-hmun-white text-hmun-dark-red" href="/reg-for-delegation">PAST MOCKS</a>| -->
 
 
-|||
-|---|---|
-|![past-conf](/past-conf.png)|![past-mock](/past-mocks.png)|
-|||
-<br />
-
-<table>
-  <tr>
-    <td> 
-      <a 
-        class="p-5 mx-2 text-xl rounded-3xl bg-hmun-white text-hmun-dark-red"
-        href="/reg-for-delegate" 
-      >
-        PAST CONFERENCES
-      </a>
-    </td>
-    <td>
-      <a
-        class="p-5 mx-2 text-xl rounded-3xl bg-hmun-white text-hmun-dark-red"
-        href="/reg-for-delegation"
-      >
-       PAST MOCKS
-      </a>
-    </td>
-  </tr>
-</table>
