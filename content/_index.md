@@ -65,13 +65,3 @@ table {
 </table>
 
 <br />
-<<<<<<< HEAD
-
-[![register for delegation](/reg-delegations.png)](/reg-for-delegation)
-
-<br />
-
-[![register for observer](/nut-ob.png)](/reg-for-observer)
-
-=======
->>>>>>> 48fda9ac6a073c39b7cd8ab158ad86540e5fe749
