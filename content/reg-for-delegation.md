@@ -30,10 +30,6 @@ Delegation Registrations are phase-specific, meaning that all members of the Del
 <br>
 e.g: If the Delegation is registered during the Regular Decision (RD) phase, all prospective Delegates in that Delegation must also register during RD.
 
-=======
-Delegation Registrations are phase-specific, meaning that all members of the Delegation must register for a Delegate position at the same phase as the Delegation.
-<br>
-e.g: If the Delegation is registered during the Regular Decision (RD) phase, all prospective Delegates in that Delegation must also register during RD.
 <br />
 
 <script 
