@@ -25,10 +25,6 @@ main h1 {
 <br />
 
 # Note: 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5b7dee01ea6b9446cd0e01a0b5aede20ead60d85
 
 Delegation Registrations are phase-specific, meaning that all members of the Delegation must register for a Delegate position at the same phase as the Delegation.
 <br>
@@ -38,7 +34,6 @@ e.g: If the Delegation is registered during the Regular Decision (RD) phase, all
 Delegation Registrations are phase-specific, meaning that all members of the Delegation must register for a Delegate position at the same phase as the Delegation.
 <br>
 e.g: If the Delegation is registered during the Regular Decision (RD) phase, all prospective Delegates in that Delegation must also register during RD.
->>>>>>> 2d9dbdd1706e29407250e1a86bb75d82f32e9ad0
 <br />
 
 <script 
