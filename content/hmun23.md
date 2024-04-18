@@ -1,5 +1,5 @@
 +++
-title = "hmun-conf"
+title = "HMUN"
 extra.banner = ""
 extra.order = 3
 page.template= "page.html"
