@@ -26,6 +26,9 @@ main h1 {
 
 # Note: 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 5b7dee01ea6b9446cd0e01a0b5aede20ead60d85
 
 Delegation Registrations are phase-specific, meaning that all members of the Delegation must register for a Delegate position at the same phase as the Delegation.
 <br>
