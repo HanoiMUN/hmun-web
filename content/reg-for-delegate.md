@@ -31,8 +31,9 @@ e.g: If the Delegation is registered during the Regular Decision (RD) phase, all
 
 <br />
 
-<script 
-  type="text/javascript"
-  src="https://form.jotform.com/jsform/240784606674061" 
-></script>
-
+<!-- TODO: make height fit content -->
+<iframe
+  class="w-full mx-auto"
+  height="1600"
+  src="https://forms.zohopublic.com/hanoimodelunitednations2024/form/HanoiModelUnitedNations10thSessionRDDelegateRegist/formperma/4CIUSvH41AtvpXuzd9LwzqyqDUKkFDg3mVWyzbAxUGg"
+></iframe>

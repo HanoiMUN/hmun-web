@@ -56,8 +56,10 @@ main h1 {
 
 <br />
 
-<script 
-  type="text/javascript"
-  src="https://form.jotform.com/jsform/240845554531053" 
-></script>
+<!-- TODO: make height fit content -->
+<iframe
+  class="w-full mx-auto"
+  height="1600"
+  src="https://zfrmz.com/3lAVBUMVKfnVzSdlVATu"
+></iframe>
 
