@@ -13,7 +13,7 @@ main h1 {
 # Registration Info
 
 - **Deadline:** 23:59 (GMT+7), April 3rd, 2024
-- **Conference date:** July 19th - July 21th, 2024
+- **Conference date:** July 19th - July 21st, 2024
 - **Eligibility:** Students aged 14 - 22
 - **Conference fee:**
   - **Delegate:** 500.000₫/person 
