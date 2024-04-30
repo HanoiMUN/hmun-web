@@ -18,8 +18,8 @@ table {
 
 <br />
 
-# EARLY BIRD DEADLINE COUNTDOWN
-{{ countdown(deadline="2024-04-03T23:59+07:00") }}
+# REGULAR DECISION DEADLINE COUNTDOWN
+{{ countdown(deadline="2024-05-03T23:59+07:00") }}
 
 <br />
 

@@ -16,12 +16,12 @@ main h1 {
 - **Conference date:** July 19th - July 21st, 2024
 - **Eligibility:** Students aged 14 - 22
 - **Conference fee:**
-  - **Delegate:** 500.000₫/person 
-  - **Observer:** 450.000₫/person 
+  - **Delegate:** 600.000₫/person 
+  - **Observer:** 550.000₫/person 
 - **Delegation:**
-  - **Delegate:** 450.000₫/person
-  - **Observer:** 400.000₫/person
-
+  - **Delegate:** 550.000₫/person
+  - **Observer:** 500.000₫/person
+  - 
 <br />
 
 # International Labour Organization (ILO)
@@ -56,8 +56,10 @@ main h1 {
 
 <br />
 
-<script 
-  type="text/javascript"
-  src="https://form.jotform.com/jsform/240845554531053" 
-></script>
+<!-- TODO: make height fit content -->
+<iframe
+  class="w-full mx-auto"
+  height="1600"
+  src="https://zfrmz.com/3lAVBUMVKfnVzSdlVATu"
+></iframe>
 
