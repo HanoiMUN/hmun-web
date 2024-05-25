@@ -18,8 +18,8 @@ table {
 
 <br />
 
-# REGULAR DECISION DEADLINE COUNTDOWN
-{{ countdown(deadline="2024-05-03T23:59+07:00") }}
+# LATE DECISION DEADLINE COUNTDOWN
+{{ countdown(deadline="2024-06-05T23:59+07:00") }}
 
 <br />
 
