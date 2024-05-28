@@ -17,10 +17,10 @@ main h1 {
 - **Eligibility:** Students aged 14 - 22
 - **Conference fee:**
   - **Delegate:** 700.000₫/person 
-  - **Observer:** 650.000₫/person 
+  - **Observer:** 550.000₫/person 
 - **Delegation:**
   - **Delegate:** 650.000₫/person
-  - **Observer:** 600.000₫/person
+  - **Observer:** 500.000₫/person
   - 
 <br />
 
